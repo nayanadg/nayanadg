@@ -7,3 +7,4 @@
 - 📫 Reach me on <a href="www.linkedin.com/in/nayana-d-g-14a75a218">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width=8% alt="LinkedIn Badge"/>
   </a>
+  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/nayana-d-g-14a75a218)
